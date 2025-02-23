@@ -1,0 +1,5 @@
+orjson>=3.10.15
+PyYAML>=6.0.2
+APScheduler>=3.11.0
+jieba>=0.42.1
+wcferry>=39.2.4.0
